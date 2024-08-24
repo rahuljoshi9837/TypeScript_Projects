@@ -1,0 +1,57 @@
+[
+    {
+        "id": "q1",
+        "text": "What is the capital of France?",
+        "options": {
+            "A": "Berlin",
+            "B": "Madrid",
+            "C": "Paris",
+            "D": "Rome"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": "q2",
+        "text": "Which planet is known as the Red Planet?",
+        "options": {
+            "A": "Earth",
+            "B": "Mars",
+            "C": "Jupiter",
+            "D": "Venus"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": "q3",
+        "text": "Who is the father of Computers?",
+        "options": {
+            "A": "James Gosling",
+            "B": "Charles Babbage",
+            "C": "Dennis Ritchie",
+            "D": "Bjarne Stroustrup"
+        },
+        "correctAnswer": "B"
+    },
+    {
+        "id": "q4",
+        "text": "What is the full form of CPU?",
+        "options": {
+            "A": "Computer Processing Unit",
+            "B": "Computer Principle Unit",
+            "C": "Central Processing Unit",
+            "D": "Control Processing Unit"
+        },
+        "correctAnswer": "C"
+    },
+    {
+        "id": "q5",
+        "text": "Which of the following computer language is written in binary codes only?",
+        "options": {
+            "A": "pascal",
+            "B": "machine language",
+            "C": "C",
+            "D": "C#"
+        },
+        "correctAnswer": "B"
+    }
+]
